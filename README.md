@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Oliver2085
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning Python 3
+- 💞️ I’m looking to collaborate on Accounting System
